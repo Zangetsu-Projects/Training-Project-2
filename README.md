@@ -14,4 +14,5 @@ Requirements:
  - Application must have a title
 
 File includes an example finished product and its source code 
+
 Attempt to create the project without looking at the source code
